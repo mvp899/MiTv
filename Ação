@@ -1,1 +1,32 @@
-//////ação///////
+<channels>
+<channel>
+<name>Kodish Faroeste</name>
+<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/store/master/virtualaddon/kodish%20faroeste/icon.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/store/master/Faroeste.xml</externallink>
+<fanart>https://raw.githubusercontent.com/kodishmediacenter/store/master/virtualaddon/kodish%20faroeste/fanart.jpg</fanart>
+<info></info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>Fabio Filmes</name>
+<thumbnail>http://blog.tudoprafoto.com/wp-content/uploads/2016/07/filmes.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/fabiotorrents/master/filmes-torrents</externallink>
+<fanart>https://raw.githubusercontent.com/kodishmediacenter/store/master/virtualaddon/kodish%20faroeste/fanart.jpg</fanart>
+<info></info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>Tv Online</name>
+<thumbnail>http://blog.tudoprafoto.com/wp-content/uploads/2016/07/filmes.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/fabiotorrents/master/FORMIGAtv.m3u</externallink>
+<fanart>https://raw.githubusercontent.com/kodishmediacenter/store/master/virtualaddon/kodish%20faroeste/fanart.jpg</fanart>
+<info>Creditos ao Formiga</info>
+</channel>
+</channels>
+
+<! icones recomendavel 256 x 256> 
+<! fanart 1024 x 720>
